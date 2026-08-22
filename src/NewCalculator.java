@@ -1,5 +1,5 @@
 import java.util.Scanner;
- // GitHub demonstration
+ // GitHub  demonstration
 public class NewCalculator {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
